@@ -5,7 +5,7 @@ Demo Raspberry Pi Qwiic "Smart" Sprinkler
 
 [![SparkFun Qwiic Kit for Raspberry Pi](https://cdn.sparkfun.com//assets/parts/1/5/7/6/5/16841-SparkFun_Qwiic_Starter_Kit_for_Raspberry_Pi-02.jpg)](https://www.sparkfun.com/products/16841)
 
-[*This is demo code to go with piSprinkler*](https://gregariouseengineer.medium.com/piSprinkler)
+*This is demo code to go with* [*"Smart" Sprinkler*](https://www.gregariousengineering.com/2022/12/smart-sprinkler.html)
 
 Program Function
 ---------------
